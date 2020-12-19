@@ -1,19 +1,19 @@
 body {
   font-family: "Spartan";
-  font-size: 15px;
+  font-size: 13px;
   background-color: white;
   margin: 0;
   height: 100%;
 }
 
 .container {
-  padding: 70px 120px 50px;
+  padding: 70px 140px 50px;
 }
 
 h1 {
   color: hsl(300, 43%, 22%);
   font-weight: 700;
-  font-size: 42px;
+  font-size: 48px;
   margin-bottom: 0;
 }
 
@@ -24,7 +24,8 @@ h1 {
 /* header section */
 .header p {
   color: hsl(303, 10%, 53%);
-  padding-top: 10px;
+  margin-top: 5px;
+  line-height: 1.6;
 }
 
 .header {
